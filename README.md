@@ -1,9 +1,9 @@
-#BRAZO ROBÓTICO DE 4 EJES
+# BRAZO ROBÓTICO DE 4 EJES
 ***Objetivo***
 --------------------------
 El propósito de esta práctica es desarrollar paso a paso un proyecto para controlar y programar un Brazo Robot, simulando las funciones básicas de un robot industrial.
 
-###El robot debe tener dos funciones básicas:
+### El robot debe tener dos funciones básicas:
 ---------------------------------------------
 - Programar: Registrar las posiciones de los brazos en tres dimensiones (cada registro es un "paso", un programa consiste en una serie de pasos). *Screen de las posiciones
 
